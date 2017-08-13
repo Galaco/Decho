@@ -1,0 +1,15 @@
+{
+  "name": "decho",
+  "version": "0.0.1",
+  "description": "A cute little framework for custom Amazon ASK",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Josh Martin",
+      "email": "mail@galaco.me"
+    }
+  ],
+  "dependencies": {
+    "alexa-sdk": "1.0.11"
+  }
+}
